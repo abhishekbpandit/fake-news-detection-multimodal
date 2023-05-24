@@ -1,0 +1,14 @@
+numpy==1.21.2
+pandas==1.3.3
+tensorflow==2.6.0
+keras==2.6.0
+optuna==2.10.0
+tensorflow-addons==0.14.0
+google-cloud-storage==1.42.0
+nltk==3.6.2
+spacy==3.1.2
+textblob==0.15.3
+google-api-python-client==2.26.1
+multiprocessing
+dask==2021.9.1
+futures==3.1.1
